@@ -4,7 +4,7 @@
 ![SampleApp](images/lecture03/SampleApp.png)
 
 * 新規入力した情報が反映されていることを確認
-![SampleApp_new ](images/lecture03/SampleApp_new.png)
+![SampleApp_new](images/lecture03/SampleApp_new.png)
 
 ## APサーバー
 * APサーバーの名前：Puma

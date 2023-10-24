@@ -6,19 +6,19 @@
 
 ## EC2を構築
 * 作成したVPC上にEC2を構築
-![ec2-networking](/images/lecture04/ec2-networking.png)
+  ![ec2-networking](/images/lecture04/ec2-networking.png)
 * セキュリティグループ
-![sg-ec2](/images/lecture04/sg-ec2.png)
+  ![sg-ec2](/images/lecture04/sg-ec2.png)
 
 ## RDSを構築
 * 作成したVPC上にRDSを構築
-![rds-detailSetting](/images/lecture04/rds-detailSetting.png)
+  ![rds-detailSetting](/images/lecture04/rds-detailSetting.png)
 * セキュリティグループ
-![sg-rds](/images/lecture04/sg-rds.png)
+  ![sg-rds](/images/lecture04/sg-rds.png)
 
 ## EC2からRDSへ接続
 * EC2にSSHで接続後、EC2からRDSへ接続
-![ec2-rds](/images/lecture04/ec2-rds.png)
+  ![ec2-rds](/images/lecture04/ec2-rds.png)
 
 
 

@@ -256,7 +256,7 @@ pid    '/home/ec2-user/raisetech-live8-sample-app/unicorn.pid'
 ````
 $ cd raisetech-live8-sample-app
 $ vim Gemfile
-group:production do
+group:development do
   gem 'unicorn'
 end
 $ bundle install 

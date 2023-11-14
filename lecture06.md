@@ -29,7 +29,7 @@ ConsoleLogin：AWS Management Consoleにブラウザ経由でログインした�
 
 ## AWSのコスト管理
 * AWS利用料の見積<br>
-[リソース内容の見積](https://calculator.aws/#/estimate?id=a0b438c69bde7ad75d0c8b04e3743897f237ab38)
+[リソース内容の見積](https://calculator.aws/#/estimate?id=f4c7244533dfce72bc1e50a77a861df2bdcf8da8)
 * 現在の利用料金
 ![cost_Nov](/images/lecture06/cost_Nov.png)
 * 先月の利用料金及びEC2の料金

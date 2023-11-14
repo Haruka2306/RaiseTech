@@ -9,31 +9,31 @@ ConsoleLogin：AWS Management Consoleにブラウザ経由でログインした�
 
 ## CloudWatchを使用してALBアラームとアクションを設定
 * AmazonSNS
-![](/images/lecture06/cw_AmazonSNS.png)
+![cw_AmazonSNS](/images/lecture06/cw_AmazonSNS.png)
 * CloudWatchのアクション設定
-![](/images/lecture06/cw_action.png)
+![cw_action](/images/lecture06/cw_action.png)
 ### Action: Alarm
 * ターゲットグループのヘルスステータス：Unhealthy
 ![cw_unhealthy-tg](/images/lecture06/cw_unhealthy-tg.png)
 * CloudWatchのアクション：アラーム状態
 ![cw_alarm-UnHealthyHostCount](/images/lecture06/cw_alarm-UnHealthyHostCount.png)
 * メール通知
-![](/images/lecture06/cw_mail-alarm.png)
+![cw_mail-alarm](/images/lecture06/cw_mail-alarm.png)
 ### Action: OK
 * ターゲットグループのヘルスステータス：Healthy
-![](/images/lecture06/cw_healthy-tg.png)
+![cw_healthy-tg](/images/lecture06/cw_healthy-tg.png)
 * CloudWatchのアクション：OK
-![](/images/lecture06/cw_ok-UnHealthyHostCount.png)
+![cw_ok-UnHealthyHostCount](/images/lecture06/cw_ok-UnHealthyHostCount.png)
 * メール通知
-![](/images/lecture06/cw_mail-ok.png)
+![cw_mail-ok](/images/lecture06/cw_mail-ok.png)
 
 ## AWSのコスト管理
 * AWS利用料の見積<br>
 [リソース内容の見積](https://calculator.aws/#/estimate?id=aa0c54fbffaa6dd9efb471bc0f63339613f3032d)
 * 現在の利用料金
-![](/images/lecture06/cost_Nov.png)
+![cost_Nov](/images/lecture06/cost_Nov.png)
 * 先月の利用料金及びEC2の料金
-![](/images/lecture06/cost_Oct.png)
-![](/images/lecture06/cost_ec2.png)
+![cost_Oct](/images/lecture06/cost_Oct.png)
+![cost_ec2](/images/lecture06/cost_ec2.png)
 
 
